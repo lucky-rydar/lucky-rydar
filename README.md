@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi there, I'm Misha 👋
 
-<!--
-**lucky-rydar/lucky-rydar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a software developer with around 2 years of experience, specializing in automotive, telecommunication and general embedded. I have a strong background in C/C++, Python, Yocto and many other tools. I'm constantly learning and exploring new technologies, and I love to share my knowledge with others.
 
-Here are some ideas to get you started:
+## Contact Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find me on these platforms:
+
+- [LinkedIn](https://www.linkedin.com/in/mykhailo-didur-052610202/)
+- [Medium](https://medium.com/@lucky_rydar)
+- mikhaildidur2003@gmail.com
+
+Feel free to reach out to me if you have any questions or just want to connect. I'm always happy to chat with fellow developers!
