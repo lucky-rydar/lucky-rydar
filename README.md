@@ -1,6 +1,6 @@
 # Hi there, I'm Misha 👋
 
-I'm a software developer with more than 3 years of experience, specializing in automotive, telecommunication and general embedded. I have a strong background in C/C++, Python, Yocto and many other tools. I'm constantly learning and exploring new technologies, and I love to share my knowledge with others.
+I'm a software developer with more than 4 years of experience, specializing in automotive, telecommunication and general embedded. I have a strong background in C/C++, Python, Yocto and many other tools. I'm constantly learning and exploring new technologies, and I love to share my knowledge with others.
 
 ## Contact Me
 
